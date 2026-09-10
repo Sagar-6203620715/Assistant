@@ -1,0 +1,11 @@
+node_modules/
+.next/
+.env
+.env.local
+*.tsbuildinfo
+data/customer_support_on_twitter.csv
+data/apple_support.jsonl
+data/golden_queue.csv
+__pycache__/
+*.pyc
+.DS_Store

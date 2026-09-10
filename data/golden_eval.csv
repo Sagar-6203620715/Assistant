@@ -1,0 +1,181 @@
+text,intent,auto_or_escalate
+"@AppleSupport hi #apple, I've a concern about the latest ios is too slow on #iphone6 and i am not happy with it. Any solution please?",battery_performance,AUTO-HANDLE
+"@105838 Me too am suffering , hope the can find a solution",ios_update_issue,AUTO-HANDLE
+"@AppleSupport after the 11.0.2 my phone just sucks most of the apps are broken, wifi disconnects frequently #apple #ios1102 #painfulupdate",ios_update_issue,AUTO-HANDLE
+Okay @76099 I used my phone for 2 minutes and it drains it down 8 percent,battery_performance,AUTO-HANDLE
+"@AppleSupport Can you get my iPhone 7plus back on the old iOS please? Battery runs out in half the time, apps now frequently crash.",ios_update_issue,AUTO-HANDLE
+You've paralysed my phone with your update @76099 grrrrrrrrrr,ios_update_issue,AUTO-HANDLE
+So the new @76099 update does not let me listen to music and go on whatsapp at the same time?!?,app_or_device_issue,AUTO-HANDLE
+#ios11update - is still killing my battery within 12 hours - phone is 10 months old - it's a disgrace - used to get 2 days,battery_performance,AUTO-HANDLE
+@76099 @AppleSupport fix this update. It's horrible,ios_update_issue,AUTO-HANDLE
+@AppleSupport I have the latest version iOS. It started immediately after I updated my phone.,ios_update_issue,AUTO-HANDLE
+My apps stop working without warning and my phone freezes every five minutes! Love the new update @76099!!!!,app_or_device_issue,AUTO-HANDLE
+My iPhone battery drains from 100 to 40 overnight with no use.,battery_performance,AUTO-HANDLE
+Phone gets extremely hot while charging since yesterday.,battery_performance,AUTO-HANDLE
+Battery health shows 82% but performance feels sluggish.,battery_performance,AUTO-HANDLE
+My phone shuts down at 30% battery every day.,battery_performance,AUTO-HANDLE
+"Charging takes 5 hours now, used to take 90 minutes.",battery_performance,AUTO-HANDLE
+Battery drops 15% while I am just reading email.,battery_performance,AUTO-HANDLE
+iPhone 8 overheats when I open camera app.,battery_performance,AUTO-HANDLE
+Performance mode feels slow after last update.,battery_performance,AUTO-HANDLE
+My device is laggy and battery dies by noon.,battery_performance,AUTO-HANDLE
+Screen on time dropped from 8 hours to 3 hours.,battery_performance,AUTO-HANDLE
+Phone is slow and warm even on home screen.,battery_performance,AUTO-HANDLE
+Battery swollen — is this safe to keep using?,battery_performance,ESCALATE
+Phone started smoking while charging last night.,battery_performance,ESCALATE
+"Battery exploded in my pocket, need urgent help.",battery_performance,ESCALATE
+Device feels dangerously hot to touch.,battery_performance,ESCALATE
+"My iPhone 6 is slow after update, any tips?",battery_performance,AUTO-HANDLE
+Battery percentage jumps from 40 to 10 instantly.,battery_performance,AUTO-HANDLE
+Optimized battery charging not working anymore.,battery_performance,AUTO-HANDLE
+Phone drains fast only when mobile data is on.,battery_performance,AUTO-HANDLE
+Low power mode does not help anymore.,battery_performance,AUTO-HANDLE
+Battery health unavailable after repair attempt.,battery_performance,ESCALATE
+Performance throttling after iOS update?,battery_performance,AUTO-HANDLE
+Phone slow only when multiple apps open.,battery_performance,AUTO-HANDLE
+Battery drain worse on iOS 17 than iOS 16.,battery_performance,AUTO-HANDLE
+Installed iOS 17.4 and now everything is broken.,ios_update_issue,AUTO-HANDLE
+Can I downgrade from the latest iOS?,ios_update_issue,AUTO-HANDLE
+Update stuck on preparing update for 2 hours.,ios_update_issue,AUTO-HANDLE
+Face ID stopped working right after iOS update.,ios_update_issue,AUTO-HANDLE
+"Update failed three times, error 1100.",ios_update_issue,AUTO-HANDLE
+My iPad won't finish downloading the update.,ios_update_issue,AUTO-HANDLE
+"Since upgrading, notifications arrive hours late.",ios_update_issue,AUTO-HANDLE
+iOS 16 to 17 migration broke my widgets.,ios_update_issue,AUTO-HANDLE
+Update removed features I relied on daily.,ios_update_issue,AUTO-HANDLE
+Software update says not enough storage but I have 20GB free.,ios_update_issue,AUTO-HANDLE
+"Phone bricked during update, Apple logo only.",ios_update_issue,ESCALATE
+Update loop — restarts then asks to update again.,ios_update_issue,ESCALATE
+Is the new iOS update safe for iPhone X?,information_request,AUTO-HANDLE
+When will the next iOS patch release?,information_request,AUTO-HANDLE
+Regret updating — wish I had waited.,ios_update_issue,AUTO-HANDLE
+Update changed keyboard layout and I can't revert.,ios_update_issue,AUTO-HANDLE
+CarPlay disconnects after latest iOS.,ios_update_issue,AUTO-HANDLE
+AirDrop broken since last update.,ios_update_issue,AUTO-HANDLE
+Photos app crashes after iOS 17 install.,ios_update_issue,AUTO-HANDLE
+Update made my phone unusable for work.,ios_update_issue,ESCALATE
+Stuck on verifying update screen.,ios_update_issue,AUTO-HANDLE
+Beta iOS causing daily reboots.,ios_update_issue,AUTO-HANDLE
+Update removed my home screen layout.,ios_update_issue,AUTO-HANDLE
+Can't install update over cellular anymore?,information_request,AUTO-HANDLE
+Safari keeps crashing when I open tabs.,app_or_device_issue,AUTO-HANDLE
+WhatsApp won't send photos after update.,app_or_device_issue,AUTO-HANDLE
+Wi-Fi disconnects every few minutes at home.,app_or_device_issue,AUTO-HANDLE
+Bluetooth won't pair with my car anymore.,app_or_device_issue,AUTO-HANDLE
+Camera shows black screen in third-party apps.,app_or_device_issue,AUTO-HANDLE
+Microphone not working on phone calls.,app_or_device_issue,AUTO-HANDLE
+Touch screen unresponsive in bottom corner.,app_or_device_issue,AUTO-HANDLE
+Apps freeze then force close randomly.,app_or_device_issue,AUTO-HANDLE
+Cannot download apps from App Store.,app_or_device_issue,AUTO-HANDLE
+iMessage not syncing across devices.,app_or_device_issue,AUTO-HANDLE
+Phone stuck in boot loop after app install.,app_or_device_issue,ESCALATE
+Speaker crackling on calls only.,app_or_device_issue,AUTO-HANDLE
+FaceTime audio cuts out mid-call.,app_or_device_issue,AUTO-HANDLE
+Maps navigation freezes while driving.,app_or_device_issue,ESCALATE
+Apple Music pauses when I switch apps.,app_or_device_issue,AUTO-HANDLE
+Mail app not receiving new emails.,app_or_device_issue,AUTO-HANDLE
+Keyboard lag when typing in Notes.,app_or_device_issue,AUTO-HANDLE
+Screen flickers when brightness below 20%.,app_or_device_issue,AUTO-HANDLE
+Cellular data not working but Wi-Fi fine.,app_or_device_issue,AUTO-HANDLE
+Find My shows wrong location for my device.,app_or_device_issue,AUTO-HANDLE
+Wallet app won't open passes at gate.,app_or_device_issue,AUTO-HANDLE
+Podcasts app deletes downloads overnight.,app_or_device_issue,AUTO-HANDLE
+Health app not syncing steps from watch.,app_or_device_issue,AUTO-HANDLE
+Screen time limits not applying to child account.,app_or_device_issue,ESCALATE
+Forgot my Apple ID password and can't reset.,account_access,ESCALATE
+Account locked after too many sign-in attempts.,account_access,ESCALATE
+Two-factor code not arriving to trusted device.,account_access,ESCALATE
+Can't sign into iCloud on new iPhone.,account_access,ESCALATE
+Apple ID email changed without my permission.,account_access,ESCALATE
+Family sharing invite not working.,account_access,AUTO-HANDLE
+How do I change my Apple ID email?,information_request,AUTO-HANDLE
+Verification code sent to old phone number.,account_access,ESCALATE
+Account disabled — need to recover photos.,account_access,ESCALATE
+Someone accessed my Apple account remotely.,account_access,ESCALATE
+Can't remove old device from Apple ID list.,account_access,AUTO-HANDLE
+Sign in with Apple not working in app.,account_access,AUTO-HANDLE
+Child can't log into school iPad.,account_access,ESCALATE
+Recovery key lost — locked out of account.,account_access,ESCALATE
+Apple ID merge created duplicate contacts.,account_access,AUTO-HANDLE
+How to enable two-factor authentication?,information_request,AUTO-HANDLE
+Password reset link expired immediately.,account_access,ESCALATE
+Account shows wrong country region.,account_access,ESCALATE
+Can't verify identity for account recovery.,account_access,ESCALATE
+Shared Apple ID causing message mix-ups.,account_access,ESCALATE
+Need help unlinking Apple ID from old employer.,account_access,ESCALATE
+Login works on web but not on device.,account_access,AUTO-HANDLE
+Charged twice for same App Store purchase.,payment_or_billing,ESCALATE
+Subscription renewed but I cancelled it.,payment_or_billing,ESCALATE
+Unknown charge on my Apple Card statement.,payment_or_billing,ESCALATE
+Refund request denied for accidental purchase.,payment_or_billing,ESCALATE
+Family member made in-app purchases without permission.,payment_or_billing,ESCALATE
+Billing address won't update in wallet.,payment_or_billing,ESCALATE
+How much is Apple One subscription?,information_request,AUTO-HANDLE
+Payment method declined but card works elsewhere.,payment_or_billing,ESCALATE
+Tax charged incorrectly on App Store order.,payment_or_billing,ESCALATE
+Need invoice for business expense report.,information_request,AUTO-HANDLE
+Subscription still active after account closure.,payment_or_billing,ESCALATE
+Gift card balance shows zero but unused.,payment_or_billing,ESCALATE
+Apple Pay transaction pending for 3 days.,payment_or_billing,ESCALATE
+Dispute fraudulent App Store charge.,payment_or_billing,ESCALATE
+Can't add new credit card to account.,payment_or_billing,ESCALATE
+Student discount not applied to subscription.,payment_or_billing,ESCALATE
+Where do I see purchase history?,information_request,AUTO-HANDLE
+Refund timeline for returned device?,payment_or_billing,ESCALATE
+Charged for free trial after cancellation.,payment_or_billing,ESCALATE
+Payment plan for iPhone upgrade program issue.,payment_or_billing,ESCALATE
+Receipt email never arrived for purchase.,payment_or_billing,AUTO-HANDLE
+Currency wrong on international purchase.,payment_or_billing,ESCALATE
+Cracked screen after minor drop — repair options?,hardware_repair,ESCALATE
+"Camera lens scratched, photos blurry now.",hardware_repair,ESCALATE
+Home button stopped working completely.,hardware_repair,ESCALATE
+Water damage indicator triggered after rain.,hardware_repair,ESCALATE
+MacBook keyboard keys sticking randomly.,hardware_repair,ESCALATE
+Apple Watch screen lifted from frame.,hardware_repair,ESCALATE
+AirPods left bud no longer charges.,hardware_repair,AUTO-HANDLE
+iPad digitizer ghost touching.,hardware_repair,ESCALATE
+Charging port loose — cable falls out.,hardware_repair,ESCALATE
+Back glass shattered on iPhone 14.,hardware_repair,ESCALATE
+Device bent slightly — still works?,hardware_repair,ESCALATE
+Stolen iPhone — can you track or lock?,hardware_repair,ESCALATE
+Logic board failure quoted at store.,hardware_repair,ESCALATE
+Fan noise loud on MacBook Pro constantly.,hardware_repair,AUTO-HANDLE
+Display has green line after drop.,hardware_repair,ESCALATE
+AppleCare+ coverage question for cracked screen.,information_request,AUTO-HANDLE
+Repair appointment cancelled — need reschedule.,hardware_repair,AUTO-HANDLE
+Third-party screen repair void warranty?,information_request,AUTO-HANDLE
+Where is the nearest Apple Store?,information_request,AUTO-HANDLE
+What are Genius Bar hours?,information_request,AUTO-HANDLE
+How do I backup iPhone to iCloud?,information_request,AUTO-HANDLE
+Which iPhones support iOS 18?,information_request,AUTO-HANDLE
+How to transfer data to new phone?,information_request,AUTO-HANDLE
+Difference between AppleCare and AppleCare+?,information_request,AUTO-HANDLE
+Can I trade in a cracked iPhone?,information_request,AUTO-HANDLE
+How long does battery replacement take?,information_request,AUTO-HANDLE
+What documents needed for repair visit?,information_request,AUTO-HANDLE
+How to disable Find My before selling?,information_request,AUTO-HANDLE
+Support phone number for India?,information_request,AUTO-HANDLE
+How to check warranty status online?,information_request,AUTO-HANDLE
+Steps to erase iPhone before return?,information_request,AUTO-HANDLE
+Does Apple support walk-in repairs?,information_request,AUTO-HANDLE
+How to join public beta program?,information_request,AUTO-HANDLE
+Where to download older iOS IPSW?,information_request,AUTO-HANDLE
+Enterprise support contact for MDM?,information_request,ESCALATE
+Accessibility features for vision impaired?,information_request,AUTO-HANDLE
+Thanks for the help yesterday!,other,AUTO-HANDLE
+You guys are the worst.,other,ESCALATE
+Hello?,other,ESCALATE
+👍,other,ESCALATE
+Is anyone there?,other,ESCALATE
+Following up on my DM from last week.,other,ESCALATE
+Can someone call me?,other,ESCALATE
+This is ridiculous.,other,ESCALATE
+Love my new iPhone!,other,AUTO-HANDLE
+When is the Apple event?,other,AUTO-HANDLE
+Will there be a pink MacBook?,other,AUTO-HANDLE
+Your competitor is better.,other,ESCALATE
+Need CEO email please.,other,ESCALATE
+Legal notice attached.,other,ESCALATE
+Media inquiry about security flaw.,other,ESCALATE
+Partnership proposal for our startup.,other,ESCALATE
+Spam test message ignore.,other,ESCALATE
