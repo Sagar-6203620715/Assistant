@@ -123,7 +123,7 @@ def judge_replies(rows: list[dict], sample: int) -> dict:
         return {}
 
     client = genai.Client(api_key=api_key)
-    model = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
+    model = os.environ.get("GEMINI_MODEL", "gemini-3.6-flash")
     random.seed(42)
     subset = random.sample(rows, min(sample, len(rows)))
 
